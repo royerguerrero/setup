@@ -1,1 +1,0 @@
-/home/zeus/.config/nvim/init.vim
